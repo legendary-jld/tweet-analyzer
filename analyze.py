@@ -1,13 +1,13 @@
 import csv
 from collections import OrderedDict
 # import time
-people = ["Hilary", "Obama", "Trump", "Pence", "Putin", "Peloski", "Paul Ryan", "Bernie Sanders", "Barack Obama"]
-groups = ["BLM", "Black Lives Matter", "Republicans", "Democrats", "GOP", "KKK"]
+people = ["Hillary", "Clinton", "Obama", "Trump", "Pence", "Putin", "Peloski", "Paul Ryan", "Bernie Sanders", "Barack Obama", "Soros"]
+groups = ["BLM", "Black Lives Matter", "Republicans", "Democrats", "GOP", "KKK", "wikileaks", "refugees"]
 ideology = ["Liberal", "Conservative", "Progressive", "Nazi", "Facism", "Totalitarianism", "Nationalism"]
 places = ["America", "USA" "Europe", "UK", "Russia", "Britain", "England"]
-topics = ["American", "Anti American", "Anti-American", "guns", "gun control", "abortion"]
+topics = ["American", "Anti American", "Anti-American", "guns", "gun control", "abortion", "racism", "fake news", "fakenews"]
 terrorism = ["terrorists", "killing", "bombing", "ISIS"]
-insults = ["snowflake"]
+insults = ["snowflake", "racist"]
 religion = ["Muslim", "Islam", "Christian", "God", "prayer", "Allah", "Lord"]
 
 keywords = people + groups + ideology + topics + places + terrorism + insults + religion
