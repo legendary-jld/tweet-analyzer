@@ -2,7 +2,7 @@ import csv
 from collections import OrderedDict
 # import time
 people = ["Hillary", "Clinton", "Obama", "Trump", "Pence", "Putin", "Peloski", "Paul Ryan", "Bernie Sanders", "Barack Obama", "Soros"]
-groups = ["BLM", "Black Lives Matter", "Republicans", "Democrats", "GOP", "KKK", "wikileaks", "refugees"]
+groups = ["BLM", "Black Lives Matter", "Republicans", "Democrats", "GOP", "KKK", "wikileaks", "refugees", "RNC", "DNC"]
 ideology = ["Liberal", "Conservative", "Progressive", "Nazi", "Facism", "Totalitarianism", "Nationalism"]
 places = ["America", "USA" "Europe", "UK", "Russia", "Britain", "England"]
 topics = ["American", "Anti American", "Anti-American", "guns", "gun control", "abortion", "racism", "fake news", "fakenews"]
